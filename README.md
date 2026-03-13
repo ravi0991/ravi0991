@@ -66,9 +66,9 @@ https://github.com/ravi0991/devops-notes
 Collection of Linux shell scripts for system administration and DevOps automation.  
 https://github.com/ravi0991/shell-scripts
 
-### 🔹 python-for-devops
+### 🔹 python-scripts
 Python scripts used for DevOps automation and system tasks.  
-https://github.com/ravi0991/python-for-devops
+https://github.com/ravi0991/python-scripts
 
 ---
 
