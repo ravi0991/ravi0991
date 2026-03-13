@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi 👋 I'm Ravinder Kumar Sharma
 
-<!--
-**ravi0991/ravi0991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Linux & DevOps Engineer on a continuous learning journey.
 
-Here are some ideas to get you started:
+Currently working on the **90 Days of DevOps Challenge** to strengthen my skills in DevOps, automation, and cloud-native tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Skills & Tools
+
+- Linux Administration
+- Git & GitHub
+- Shell Scripting
+- Python for DevOps
+- CI/CD Concepts
+- Docker (Learning)
+- Monitoring & Automation
+
+---
+
+## 📚 Current Learning
+
+- 90 Days of DevOps Challenge
+- Advanced Git & GitHub
+- Infrastructure Automation
+- CI/CD Pipelines
+
+---
+
+## 📌 Featured Repositories
+
+- 🔹 [90DaysOfDevOps](https://github.com/ravi0991/90DaysOfDevOps)
+- 🔹 [devops-notes](https://github.com/ravi0991/devops-notes)
+- 🔹 [shell-scripts](https://github.com/ravi0991/shell-scripts)
+- 🔹 [python-for-devops](https://github.com/ravi0991/python-for-devops)
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn: www.linkedin.com/in/ravinder-kumar-sharma-b0674796  
+GitHub: https://github.com/ravi0991
